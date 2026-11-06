@@ -6,7 +6,7 @@ inserção (início e meio) e remoção com 1.000, 10.000 e 100.000 elementos.
 
 **Repositório:** https://github.com/mmcconservador-svg/Trabalho-02---Listas-Sequenciais-e-Listas-Encadeadas
 
-**Grupo:** _(nomes dos integrantes)_
+**Grupo:** Ana Beatriz, Anthony Lucas e Miguel Monteiro
 
 ## Estrutura
 
