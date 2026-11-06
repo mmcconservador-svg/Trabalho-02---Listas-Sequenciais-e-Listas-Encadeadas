@@ -1,0 +1,7 @@
+estrutura,n,bytes_por_elemento
+Sequencial,1000,10.28
+Encadeada,1000,16.02
+Sequencial,10000,9.83
+Encadeada,10000,16.00
+Sequencial,100000,8.85
+Encadeada,100000,16.00
